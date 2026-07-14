@@ -35,7 +35,7 @@ This project uses the **OpenWeather API** to fetch real-time weather data.
 
 ## 🌐 Live Demo
 
-👉
+👉https://khanimran001.github.io/Weather/
 
 ## 🚀 Getting Started
 
